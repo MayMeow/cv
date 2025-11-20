@@ -1,6 +1,7 @@
 {
     "title": "MayMeow",
     "description": "MayMeow's CV - Sysadmin, Developer, Catgirl",
+    "themeColor": "#7c3aed",
     "author": "MayMeow",
     "hero": {
         "headline": "Sysadmin | Hobbyist Developer | Catgirl",

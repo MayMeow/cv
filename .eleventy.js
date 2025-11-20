@@ -1,6 +1,9 @@
 module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy({ assets: "assets" });
-    eleventyConfig.addWatchTarget("./src/**/*.{njk,md,json}");
+    eleventyConfig.addPassthroughCopy({ "src/sw.js": "sw.js" });
+    eleventyConfig.addPassthroughCopy("src/manifest.webmanifest");
+    eleventyConfig.addWatchTarget("./src/**/*.{njk,md,json,webmanifest,js}");
+    eleventyConfig.addWatchTarget("./src/sw.js");
 
     return {
         dir: {

@@ -1,0 +1,22 @@
+{
+    "name": "MayMeow Resume",
+    "short_name": "MayMeow",
+    "description": "Versatile IT specialist resume for May Meow.",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#7c3aed",
+    "icons": [
+        {
+        "src": "/assets/sq540B352E-C8D9-4875-A75A-55CE892E5017.jpg",
+        "sizes": "192x192",
+        "type": "image/jpeg"
+        },
+        {
+        "src": "/assets/sq540B352E-C8D9-4875-A75A-55CE892E5017.jpg",
+        "sizes": "512x512",
+        "type": "image/jpeg"
+        }
+    ]
+}
