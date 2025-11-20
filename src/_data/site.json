@@ -1,0 +1,25 @@
+{
+    "title": "MayMeow",
+    "description": "MayMeow's CV - Sysadmin, Developer, Catgirl",
+    "author": "MayMeow",
+    "hero": {
+        "headline": "Sysadmin | Hobbyist Developer | Catgirl",
+        "name": "May Meow",
+        "summary": "Versatile IT specialist with over 13 years of experience in system administration, network management, automation, and full-stack web development. I build and maintain reliable IT infrastructures for small and medium businesses, create internal tools, and work on open-source and hobby projects under the MayMeow identity. Passionate about clean architecture, security, automation, and beautifully structured web content."
+    },
+    "profile": {
+        "location": "Central Europe (Remote)",
+        "signal": "maymeow.01",
+        "mastodon": {
+        "label": "@may@social.lol",
+        "url": "https://social.lol/@may"
+        },
+        "website": "https://maymeow.com",
+        "portrait": "assets/sq540B352E-C8D9-4875-A75A-55CE892E5017.jpg"
+    },
+    "footer": {
+        "label": "Resume",
+        "authorUrl": "https://pixelcave.com",
+        "authorName": "pixelcave"
+    }
+}
