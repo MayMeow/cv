@@ -1,0 +1,30 @@
+[
+    {
+        "category": "Languages",
+        "items": ["PHP", "JavaScript", "C#", "Bash", "PowerShell"]
+    },
+    {
+        "category": "Frameworks",
+        "items": ["Laravel", "CakePHP", "Vue.js", ".NET"]
+    },
+    {
+        "category": "DevOps / Infra",
+        "items": ["Docker", "Traefik", "Caddy", "GitHub Actions", "Netlify", "Vercel"]
+    },
+    {
+        "category": "Cloud & Services",
+        "items": ["Microsoft 365", "Azure AD", "Intune", "Autopilot"]
+    },
+    {
+        "category": "Databases",
+        "items": ["PostgreSQL", "MySQL", "SQLite", "Redis"]
+    },
+    {
+        "category": "Networking",
+        "items": ["VPNs", "routing", "DNS", "firewalls", "monitoring"]
+    },
+    {
+        "category": "Tools",
+        "items": ["Git", "Hugo", "11ty", "CI/CD pipelines"]
+    }
+]
