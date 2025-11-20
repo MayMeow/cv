@@ -1,4 +1,4 @@
-const CACHE_NAME = "maymeow-cv-v1";
+const CACHE_NAME = "maymeow-cv-v2";
 const OFFLINE_URLS = [
     "/",
     "/manifest.webmanifest",
