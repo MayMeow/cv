@@ -9,12 +9,12 @@
     "theme_color": "#7c3aed",
     "icons": [
         {
-        "src": "/assets/sq540B352E-C8D9-4875-A75A-55CE892E5017.jpg",
-        "sizes": "192x192",
+        "src": "https://media.maymeow.com/cv/250p_540B352E-C8D9-4875-A75A-55CE892E5017.png",
+        "sizes": "250x250",
         "type": "image/jpeg"
         },
         {
-        "src": "/assets/sq540B352E-C8D9-4875-A75A-55CE892E5017.jpg",
+        "src": "https://media.maymeow.com/cv/540B352E-C8D9-4875-A75A-55CE892E5017.png",
         "sizes": "512x512",
         "type": "image/jpeg"
         }

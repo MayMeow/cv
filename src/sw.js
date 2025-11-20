@@ -2,7 +2,8 @@ const CACHE_NAME = "maymeow-cv-v1";
 const OFFLINE_URLS = [
     "/",
     "/manifest.webmanifest",
-    "/assets/sq540B352E-C8D9-4875-A75A-55CE892E5017.jpg"
+    "https://media.maymeow.com/cv/540B352E-C8D9-4875-A75A-55CE892E5017.png",
+    "https://media.maymeow.com/cv/250p_540B352E-C8D9-4875-A75A-55CE892E5017.png"
 ];
 
 self.addEventListener("install", (event) => {
