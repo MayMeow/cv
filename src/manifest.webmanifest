@@ -9,8 +9,8 @@
     "categories": ["productivity", "business", "portfolio"],
     "screenshots": [
         {
-        "src": "https://media.maymeow.com/cv/Screenshot_20251120_232810_Chrome.jpg",
-        "sizes": "1080x2400",
+        "src": "assets/Screenshot_20251120_232810_Chrome.jpg",
+        "sizes": "1440x3120",
         "type": "image/jpeg"
         }
     ],
@@ -19,12 +19,12 @@
     "theme_color": "#7c3aed",
     "icons": [
         {
-        "src": "https://media.maymeow.com/cv/250p_540B352E-C8D9-4875-A75A-55CE892E5017.png",
+        "src": "assets/250p_540B352E-C8D9-4875-A75A-55CE892E5017.png",
         "sizes": "250x250",
         "type": "image/png"
         },
         {
-        "src": "https://media.maymeow.com/cv/540B352E-C8D9-4875-A75A-55CE892E5017.png",
+        "src": "assets/540B352E-C8D9-4875-A75A-55CE892E5017.png",
         "sizes": "512x512",
         "type": "image/png"
         }
