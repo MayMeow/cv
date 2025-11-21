@@ -1,8 +1,14 @@
 [
-  {
-    "platform": "GitHub",
-    "title": "Personal Profile",
-    "url": "https://github.com/MayMeow",
-    "accentClass": "text-blue-600"
-  }
+    {
+        "platform": "GitHub",
+        "title": "Personal Profile",
+        "url": "https://github.com/MayMeow",
+        "accentClass": "text-blue-600"
+    },
+    {
+        "platform": "Mastodon",
+        "title": "Personal Profile",
+        "url": "https://social.lol/@may",
+        "accentClass": "text-purple-600"
+    }
 ]

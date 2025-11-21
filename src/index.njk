@@ -22,11 +22,18 @@ eleventyComputed:
           <p>{{ site.profile.location }}</p>
           <p>signal: {{ site.profile.signal }}</p>
           <p>
-            mastodon:
+            email:
             <a
               class="font-medium text-black underline hover:text-black/75"
-              href="{{ site.profile.mastodon.url }}"
-            >{{ site.profile.mastodon.label }}</a>
+              href="{{ site.profile.email.url }}"
+            >{{ site.profile.email.label }}</a>
+          </p>
+          <p>
+            pgp:
+            <a
+              class="font-medium text-black underline hover:text-black/75"
+              href="{{ site.profile.pgp.url }}"
+            >{{ site.profile.pgp.label }}</a>
           </p>
           <p>
             <a
